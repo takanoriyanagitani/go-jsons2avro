@@ -1,0 +1,11 @@
+type = "map"
+values = [
+	"null",
+	"boolean",
+	"bytes",
+	"float",
+	"double",
+	"long",
+	"int",
+	"string",
+]

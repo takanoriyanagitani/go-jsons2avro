@@ -1,0 +1,13 @@
+{
+  "items": [
+    "null",
+    "boolean",
+    "bytes",
+    "float",
+    "double",
+    "long",
+    "int",
+    "string"
+  ],
+  "type": "array"
+}
