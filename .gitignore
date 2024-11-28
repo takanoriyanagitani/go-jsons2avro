@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/jsons2arrays2avro/jsons2arrays2avro
+cmd/jsons2maps2avro/jsons2maps2avro
